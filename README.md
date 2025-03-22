@@ -1,5 +1,4 @@
-# homeco-site
-A webpage for Home&amp;Co shopping site which sells cleaning and home products
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
